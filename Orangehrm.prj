@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>Orangehrm</name>
+   <tag></tag>
+   <UUID>c2dc172d-a45f-4c0f-863d-fdd9652c3355</UUID>
+   <migratedVersion>5.9.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <timeStampInProperties>false</timeStampInProperties>
+   <type>WEBUI</type>
+</Project>
